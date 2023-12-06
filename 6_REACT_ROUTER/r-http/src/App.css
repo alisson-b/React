@@ -1,0 +1,12 @@
+.titulo {
+  text-align: center;
+}
+li {
+  list-style-type: none;
+}
+.label-choice {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px;
+}
