@@ -3,7 +3,8 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Secret World</h1>
+      <h1>Secret Word</h1>
+      <hr/>
     </>
   );
 }
